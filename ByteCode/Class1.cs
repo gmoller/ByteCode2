@@ -8,5 +8,6 @@ namespace ByteCode
 {
     public class Class1
     {
+
     }
 }
